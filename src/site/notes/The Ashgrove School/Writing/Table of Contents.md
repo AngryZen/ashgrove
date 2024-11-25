@@ -11,5 +11,5 @@
 [[The Ashgrove School/Writing/2- Setting/1. 01 - What is magic?\|1. 01 - What is magic?]]
 [[The Ashgrove School/Writing/2- Setting/1.02a Lab work - Sally's POV\|1.02a Lab work - Sally's POV]]
 [[The Ashgrove School/Writing/2- Setting/1.02b Lab Work - Laurie's POV\|1.02b Lab Work - Laurie's POV]]
-
-Need to determine which POV to go with on 1.02
+	Need to determine which POV to go with on 1.02
+[[The Ashgrove School/Writing/2- Setting/1.03 Take a walk\|1.03 Take a walk]]
