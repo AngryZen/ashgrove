@@ -13,3 +13,6 @@
 [[The Ashgrove School/Writing/2- Setting/1.02b Lab Work - Laurie's POV\|1.02b Lab Work - Laurie's POV]]
 	Need to determine which POV to go with on 1.02
 [[The Ashgrove School/Writing/2- Setting/1.03 Take a walk\|1.03 Take a walk]]
+[[The Ashgrove School/Writing/2- Setting/1.04 Dinner Conversation\|1.04 Dinner Conversation]]
+[[The Ashgrove School/Writing/2- Setting/1.05 Dining Hall etiquette\|1.05 Dining Hall etiquette]]
+
