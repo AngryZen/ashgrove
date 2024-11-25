@@ -1,5 +1,5 @@
 ---
-{"dg-publish":false,"permalink":"/the-ashgrove-school/characters/journeymen/laurie-vance/"}
+{"dg-publish":true,"permalink":"/the-ashgrove-school/characters/journeymen/laurie-vance/"}
 ---
 
 
