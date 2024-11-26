@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/the-ashgrove-school/characters/masters/cecilia-dominga-reyes-y-vasquez/"}
----
-
-Cecilia Dominga Reyes y Vasquez is a Witch from [[The Ashgrove School/World Factions/The Covens\|The Covens]]. Capital W please. She is a perfectly pleasant woman and acts as the advisor for the [[The Ashgrove School/Factions-Clubs/Wardens\|Wardens]]. A spot that puts her closer to [[The Ashgrove School/The Grounds/The Ways\|The Ways]] than several are comfortable with, but her devotion to the students is unparalleled at her level. She covers the Hidden Lore classes on Spirits as well as advanced classes in the [[The Ashgrove School/Magic/Path of Spirit\|Path of Spirit]] in addition to intermediate classes on [[The Ashgrove School/Magic/Path of Body\|Path of Body]] and [[The Ashgrove School/Magic/Path of Chance\|Path of Chance]] and how it relates to the Weather. Her upper level classes generally cover Binding Spirits and Divination. She proctors the [[The Ashgrove School/Factions-Clubs/Diviners\|Diviners]] Her office hours are when her door is open. If it is closed and the lights are on, wait a minute. 
