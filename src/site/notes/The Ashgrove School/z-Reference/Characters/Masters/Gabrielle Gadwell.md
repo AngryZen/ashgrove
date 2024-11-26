@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/the-ashgrove-school/z-reference/characters/masters/gabrielle-gadwell/"}
+---
+
+Gabrielle Gadwell doesn’t look like a magician, or a teacher. She shows up to classes half drunk, her words a mix of inappropriate and profane. She has offended practically every visiting dignitary to the school for the last 200 years. Yes, 200 years. Gabrielle Gadwell, not her original name, is a vampire. The fact that she is the most ethical vampire found to date is concerning, but the [[The Ashgrove School/z-Reference/Characters/Masters/Secret Master\|Secret Master]] laid down the law that she is to be tolerated, if not totally trusted. She teaches about the [[The Ashgrove School/z-Reference/Magic/Path of Undead\|Path of Undead]] and Death in general and when sobered up a bit, does a decent job. No, she is not allowed to supervise the [[The Ashgrove School/z-Reference/Factions-Clubs/Sacred Order of the Veil\|Sacred Order of the Veil]]. She wears several magic items that supposedly keep her ‘safe’ for the students and staff. Most don’t trust them, her, or going into the basement areas alone at night.
