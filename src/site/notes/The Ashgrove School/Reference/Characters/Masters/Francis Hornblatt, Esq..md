@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/the-ashgrove-school/reference/characters/masters/francis-hornblatt-esq/"}
+---
+
+Francis Hornblatt, Esq. (Yes, he has passed the bar exam.) Francis is an excellent teacher, a first rate mind and sadly, a true member of the [[The Ashgrove School/Reference/World Factions/The Academics/Academics\|Academics]]. His Seconds must teach all his classes except for the senior level, and sometimes they are brought in to cover those, depending on their skills. Photographic memory, high IQ, his Mastery of the [[The Ashgrove School/Reference/Magic/Path of Mind\|Path of Mind]] lets him both enhance his mind if need be, and manipulate others casually. He advises the [[The Ashgrove School/Reference/Factions-Clubs/Psychics\|Psychics]]. He made several suggestions on memory charms to the Cabal in exchange for several odd artifacts he is currently experimenting with. Office hours are 2:00PM to 4:00PM every fifth Monday of the month.
