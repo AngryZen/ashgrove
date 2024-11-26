@@ -16,6 +16,7 @@
 [[The Ashgrove School/Writing/1- Setting/1.04 Dinner Conversation\|1.04 Dinner Conversation]]
 [[The Ashgrove School/Writing/1- Setting/1.05 Dining Hall etiquette\|1.05 Dining Hall etiquette]]
 [[The Ashgrove School/Writing/1- Setting/1.06 Taking full advantage\|1.06 Taking full advantage]]
+[[The Ashgrove School/Writing/1- Setting/1.07 Dueling Loyalties\|1.07 Dueling Loyalties]]
 
 
 
