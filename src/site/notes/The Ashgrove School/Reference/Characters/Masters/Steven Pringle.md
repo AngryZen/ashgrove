@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/the-ashgrove-school/reference/characters/masters/steven-pringle/"}
----
-
-Steven Pringle looks at best disheveled most of the time. When he cleans up he looks like he belongs in the 1950s, in front of a blackboard. His mind is wrapped around obtuse math and despite never completing a PhD, has co-authored papers with the finest mathematicians all over the world. He is THE foremost authority on Chaos, magical Chaos, on the planet, and Ashgrove is lucky to have him. His teaching leaves a bit to be desired, but now and then there is a glimmer of humor behind his gold-rimmed glasses that says he knows more than he is letting on. His appearance may be a front. He works for [[The Ashgrove School/Reference/World Factions/The Cabal/The Cabal\|The Cabal]], technically, on loan to Ashgrove indefinitely. His work in Chaos theory has given the Cabal unbreakable secure communications, and they are happy to have him protected from the internecine warfare the Cabal is known to generate. His office hours are posted as an equation on his door.
