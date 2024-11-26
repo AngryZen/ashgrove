@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/the-ashgrove-school/zzz-reference/characters/teachers/frederick-van-der-meer/"}
+---
+
+Frederick is not a Master. This doesn't bother him unduly. He never developed the 'feel' for magic without a connection to the target, leaving him a perfect proctor for the House of Cthuga. He has mastered the [[The Ashgrove School/zzz-Reference/Magic/Path of Energy\|Path of Energy]] and the [[The Ashgrove School/zzz-Reference/Magic/Path of Matter\|Path of Matter]] and teaches fairly well. While he is respectably decent in the [[The Ashgrove School/zzz-Reference/Magic/Path of Crossroads\|Path of Crossroads]] and the [[The Ashgrove School/zzz-Reference/Magic/Path of Chance\|Path of Chance]], he doesn't monitor the [[Makers\|Makers]] or the [[The Ashgrove School/zzz-Reference/Factions-Clubs/Weather Wizards\|Weather Wizards]], he let's the Journeymen deal with the student clubs and concentrates on his House.
