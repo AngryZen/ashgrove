@@ -18,6 +18,9 @@
 [[The Ashgrove School/Writing/1- Setting/1.06 Taking full advantage\|1.06 Taking full advantage]]
 [[The Ashgrove School/Writing/1- Setting/1.07 Dueling Loyalties\|1.07 Dueling Loyalties]]
 [[The Ashgrove School/Writing/1- Setting/1.08 Love what you have done with the place\|1.08 Love what you have done with the place]]
+[[The Ashgrove School/Writing/1- Setting/1.09 Got wood?\|1.09 Got wood?]]
+[[The Ashgrove School/Writing/1- Setting/1.10 Breakthrough, no not like that\|1.10 Breakthrough, no not like that]]
+
 
 
 
