@@ -37,6 +37,7 @@ Weight 135 pounds
 >> Decreased Will 2   (-10)
 >
 >> [!metadata|text-Center bg-c-gray]- Languages
+>> English
 >
 >> [!metadata|text-Center bg-c-gray]- Reactions
 >> +4 from those attracted to members of your sex, +2 from everyone else
