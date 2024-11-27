@@ -3,4 +3,4 @@
 ---
 
 
-![Ashgrove Valley.png](/img/user/The%20Ashgrove%20School/z-Media/Ashgrove%20Valley.png)
+![Ashgrove Valley.png](/img/user/The%20Ashgrove%20School/Media/Ashgrove%20Valley.png)
