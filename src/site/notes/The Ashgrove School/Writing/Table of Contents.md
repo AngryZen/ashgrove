@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-ashgrove-school/writing/table-of-contents/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-ashgrove-school/writing/table-of-contents/"}
 ---
 
 [[The Ashgrove School/Writing/0- Intro/0.01 Introduction\|0.01 Introduction]]
