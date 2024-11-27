@@ -4,15 +4,16 @@
 
 |Stat||
 |---|---|
-|ST| 9|
+|ST|09|
 |DX|10|
 |IQ|14|
-|HT12|
+|HT|12|
 
-**ST** 9 
-**DX** 10
-**IQ** 14 - **WILL** 12 - **Fright Check** 12 - **PER** - 12
-HT 12
+|Stat||
+|---|---|
+|Will|12|
+|Fright|12|
+|Per|12|
 
 Female - Black Hair, dark brown eyes
 Age 24
