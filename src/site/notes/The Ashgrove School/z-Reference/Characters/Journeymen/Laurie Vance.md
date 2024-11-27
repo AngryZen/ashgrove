@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/the-ashgrove-school/z-reference/characters/journeymen/laurie-vance/"}
 ---
 
+|Stat||
+|---|---|
+|ST| 9|
+|DX|10|
+|IQ|14|
+|HT12|
+
 **ST** 9 
 **DX** 10
 **IQ** 14 - **WILL** 12 - **Fright Check** 12 - **PER** - 12
