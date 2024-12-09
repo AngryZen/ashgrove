@@ -4,6 +4,8 @@
 
 This table summarizes the key facts about each decan; the 10-degree segment of the zodiacal arc which it subtends, and its governing planet. In addition, each decan is given an associated “sephirah” a “sphere” on the kabalistic “Tree of Life”.
 
+### Decanic Correspondences
+
 | Path                   | Sephirah  | Decans             |
 | ---------------------- | --------- | ------------------ |
 | [[The Ashgrove School/z-Reference/Magic/Path of Body\|Path of Body]]       | Yesod     | [[The Ashgrove School/z-Reference/Magic/Decanic Correspondences#Belbel\|#Belbel]]        |
@@ -34,11 +36,11 @@ This table summarizes the key facts about each decan; the 10-degree segment of t
 |                        |           | [[The Ashgrove School/z-Reference/Magic/Decanic Correspondences#Methiax\|#Methiax]]       |
 |                        |           | [[The Ashgrove School/z-Reference/Magic/Decanic Correspondences#Naôth\|#Naôth]]         |
 |                        |           | [[The Ashgrove School/z-Reference/Magic/Decanic Correspondences#Ruax\|#Ruax]]          |
-| [[The Ashgrove School/z-Reference/Magic/Path of Spirit\|Path of Spirit]] | Binah     | [[The Ashgrove School/z-Reference/Magic/Decanic Correspondences#Anostêr\|#Anostêr]]       |
+| [[The Ashgrove School/z-Reference/Magic/Path of Spirit\|Path of Spirit]]     | Binah     | [[The Ashgrove School/z-Reference/Magic/Decanic Correspondences#Anostêr\|#Anostêr]]       |
 |                        |           | [[The Ashgrove School/z-Reference/Magic/Decanic Correspondences#Barsafael\|#Barsafael]]     |
 |                        |           | [[The Ashgrove School/z-Reference/Magic/Decanic Correspondences#Charchnoumis\|#Charchnoumis]]  |
 |                        |           | [[The Ashgrove School/z-Reference/Magic/Decanic Correspondences#Marderô\|#Marderô]]       |
-| [[The Ashgrove School/z-Reference/Magic/Path of Undead\|Path of Undead]] | Malkuth   | [[The Ashgrove School/z-Reference/Magic/Decanic Correspondences#Axiôphêth\|#Axiôphêth]]     |
+| [[The Ashgrove School/z-Reference/Magic/Path of Undead\|Path of Undead]]     | Malkuth   | [[The Ashgrove School/z-Reference/Magic/Decanic Correspondences#Axiôphêth\|#Axiôphêth]]     |
 |                        |           | [[The Ashgrove School/z-Reference/Magic/Decanic Correspondences#Bianakith\|#Bianakith]]     |
 |                        |           | [[The Ashgrove School/z-Reference/Magic/Decanic Correspondences#Buldumêch\|#Buldumêch]]     |
 |                        |           | [[The Ashgrove School/z-Reference/Magic/Decanic Correspondences#Kurtaêl\|#Kurtaêl]]       |
