@@ -10,9 +10,9 @@ He doesn't appear to be aware
 
 He is a 'late bloomer' to magic, but his science background has made him very flexible. He is sought after by many groups, but he wants to stay at Ashgrove. While an academic at heart, he sees the [[The Ashgrove School/z-Reference/World Factions/The Academics/Academics\|Academics]] as parasites.
 
-[[The Ashgrove School/z-Reference/Magic/Path of Energy\|Path of Energy]]
-[[The Ashgrove School/z-Reference/Magic/Path of Matter\|Path of Matter]]
-[[The Ashgrove School/z-Reference/Magic/Path of Chance\|Path of Chance]]
+[[zArchive/Magic - RPM (Archive)/Path of Energy\|Path of Energy]]
+[[zArchive/Magic - RPM (Archive)/Path of Matter\|Path of Matter]]
+[[zArchive/Magic - RPM (Archive)/Path of Chance\|Path of Chance]]
 
 [[The Ashgrove School/z-Reference/Factions-Clubs/Weather Wizards\|Weather Wizards]]
 
