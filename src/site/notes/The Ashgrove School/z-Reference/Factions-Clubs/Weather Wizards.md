@@ -3,4 +3,4 @@
 ---
 
 A group of students who manage the weather around the School.
-[[The Ashgrove School/z-Reference/Magic/Air\|Air]], [[The Ashgrove School/z-Reference/Magic/Water\|Water]]
+[[Air\|Air]], [[Water\|Water]]
